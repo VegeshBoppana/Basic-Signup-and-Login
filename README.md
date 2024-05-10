@@ -1,13 +1,10 @@
 # Basic-Signup-and-Login
 
-<h2>
-The basic repo of this repo is creating the Login and SignUP pages with MongoDB as the backend so that if anyone wants to create a project where login and signup are the basic requirements they can clone this repo and start working from the actual part of their project without wasting their time on creating login and signup pages with MongoDB connections.
+<h4>
+The primary objective of this repository is to provide pre-built login and signup pages integrated with MongoDB as the backend. This enables developers to swiftly initiate their projects, focusing directly on their core functionalities instead of spending time on creating these fundamental pages and database connections.</h4>
 
-<li>
-MERN STACK</li> 
- <li>
-SingUp With Google Functionality</li> 
-  <li>
-Login with Google Functionality
-</li> 
-</h2>
+Features include:
+
+<li> Utilization of the MERN stack. </li>
+<li> Signup functionality with Google integration. </li>
+<li> Login functionality with Google integration. </li>
